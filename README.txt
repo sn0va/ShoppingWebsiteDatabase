@@ -8,3 +8,6 @@ sale on the website. It also has a separate section for billing that keeps track
 There is also a simple UI included made from python. The UI simulates a customer experience buying one or more products.
 There is also a user verification system, in which you can make a new account or login from an old one. Signing in with
 a manager ID and password allows you to access confidential information about customers and purchase history.
+
+To get this running on your machine you will need mySQL to create the database and anything that can run a python script
+for the UI.
